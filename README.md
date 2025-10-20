@@ -1,5 +1,5 @@
 # Task-1
-Simple Responsive Landing Page Using HTML and CSS
+Simple Responsive Landing Page Using HTML and CSS.
 A webpage created using HTML and CSS with a responsive design.
 The content adjusts automatically according to the window size.
 
